@@ -10,7 +10,7 @@
 @updateURL https://github.com/el-profesor926/OcUK-Theme-Xen-Complete-Dark/raw/main/Xen-Complete-Dark.user.css
 ==/UserStyle== */
 
-@-moz-document url-prefix("https://www.overclockers.co.uk/forums/") {
+@-moz-document url-prefix("https://forums.overclockers.co.uk/") {
 html {
     background-color: #2e3539 !important;
 }
